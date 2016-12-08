@@ -1,1 +1,10 @@
-#!/usr/bin/env python# -*- coding: UTF-8 -*-"""@author:Eric.xin"""ip='172.16.3.10'user='root'pwd='gfs2015#'db='jr_pay'
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+"""
+@author:Eric.xin
+"""
+ip='数据源ip'
+user='用户名'
+pwd='密码'
+db='你的数据库名字'
+
