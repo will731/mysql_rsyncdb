@@ -1,0 +1,1 @@
+#!/usr/bin/env python# -*- coding: UTF-8 -*-"""@author:Eric.xin"""ip="10.0.20.202"user='acc_plat_test'pwd='account@q1w2e3'db='acc_plat_test'

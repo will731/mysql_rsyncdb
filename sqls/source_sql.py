@@ -1,0 +1,1 @@
+#!/usr/bin/env python# -*- coding: UTF-8 -*-"""@author:Eric.xin"""ssql="select user_id,available_amount/100,freeze_amount, ds_principal,ds_interest,reward from jr_pay.pay_account"

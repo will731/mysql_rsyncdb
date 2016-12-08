@@ -1,0 +1,1 @@
+#!/usr/bin/env python# -*- coding: UTF-8 -*-"""@author:Eric.xin"""import osimport sysreload(sys)sys.setdefaultencoding("utf-8")parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))sys.path.append(parentdir)BASE_DIR = os.path.dirname(__file__)configration = {    u'LogDir': os.path.join(BASE_DIR, 'logs'),}
