@@ -1,1 +1,9 @@
-1.配置文件Conf源数据修改 s_config.py 链接数据库的地址和用户名密码源数据拷贝修改 d_config.py 链接数据库的地址和用户名密码2.logs目录是日志文件,用于查看同步数据的状态3.bin目录存放处理数据的相关程序,备份数据执行index.py即可,不用执行其它脚本4.sqls/source_sql.py存放查询sql语句5.开发负责人:郭鑫鹏    DBA陈星    SQL语句提供: 张万超6.git地址git clone git@10.0.20.52:/baofu_rsyncdb密码:tom123
+1.配置文件Conf
+源数据修改 s_config.py 链接数据库的地址和用户名密码
+源数据拷贝修改 d_config.py 链接数据库的地址和用户名密码
+2.logs目录是日志文件,用于查看同步数据的状态
+3.bin目录存放处理数据的相关程序,备份数据执行index.py即可,不用执行其它脚本
+4.sqls/source_sql.py存放查询sql语句
+
+
+
